@@ -1,0 +1,1 @@
+In the second chapter of the book, Aurelien Geron walks us through what a Machine Learning project might look like. This project is me following along with the chapter. Future projects will **not** be so reliant on the author.
